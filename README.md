@@ -22,8 +22,7 @@ My profile: https://leetcode.com/drneotu/
 * [0001. Two Sum](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0001.%20Two%20Sum/twoSum.py)
 * [0009. Palindrome Number](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0009.%20Palindrome%20Number/palindromeNumber.py) 
 * [0013. Roman to Integer](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0013.%20Roman%20to%20Integer/romantoInteger.py)
-* [0014. Longest Common Prefix]
-(https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0014.%20Longest%20Common%20Prefix/longestCommonPrefix.py)
+* [0014. Longest Common Prefix](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0014.%20Longest%20Common%20Prefix/longestCommonPrefix.py)
 * [0020. Valid Parentheses](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0020.%20Valid%20Parentheses/validParentheses.py)
 * [0021. Merge Two Sorted Lists](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0021.%20Merge%20Two%20Sorted%20Lists/mergeTwoSortedLists.py)
 * [0026. Remove Duplicates from Sorted Array](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Easy/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/removeDuplicatesfromSortedArray.py)
@@ -60,11 +59,11 @@ My profile: https://leetcode.com/drneotu/
   
 * [0007. Reverse Integer](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0007.%20Reverse%20Integer/reverseInteger.py)
 * [0008. String to Integer (atoi)](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0008.%20String%20to%20Integer%20(atoi)/stringtoInteger.py)
-* [0019. Remove Nth Node From End of List](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List/removeNthNodeFromEndofList.py]
+* [0019. Remove Nth Node From End of List](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List/removeNthNodeFromEndofList.py)
 * [0036. Valid Sudoku](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0036.%20Valid%20Sudoku/validSudoku.py)
 * [0048. Rotate Image](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0048.%20Rotate%20Image/rotateImage.py)
 * [0189. Rotate Array](https://github.com/DrNeoLamafa/LeetCode_solutions/tree/main/Medium/0189.%20Rotate%20Array)
-* [0204. Count Primes}(https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0204.%20Count%20Primes/countPrimes.py)
+* [0204. Count Primes](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0204.%20Count%20Primes/countPrimes.py)
 * [0237. Delete Node in a Linked List](https://github.com/DrNeoLamafa/LeetCode_solutions/blob/main/Medium/0237.%20Delete%20Node%20in%20a%20Linked%20List/deleteNodeinaLinkedList.py)
   
 </details>
