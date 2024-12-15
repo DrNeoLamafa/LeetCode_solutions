@@ -5,7 +5,8 @@
 <div id="badges" align="center">
   
 [![LeetCode](https://img.shields.io/badge/website-LeetCode-inactive)](https://leetcode.com/)
-[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/DrNeoLamafa/LeetCode_solutions.svg)](https://github.com/DrNeoLamafa/LeetCode_solutions)
+  [![GitHub repo size in bytes](https://img.shields.io/github/languages/code-size/DrNeoLamafa/LeetCode_solutions
+)](https://github.com/DrNeoLamafa/LeetCode_solutions)
 ![GitHub top language](https://img.shields.io/github/languages/top/DrNeoLamafa/LeetCode_solutions.svg?style=flat)
   
 </div>
